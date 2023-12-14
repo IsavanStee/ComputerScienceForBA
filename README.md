@@ -6,7 +6,7 @@ Welcome to the implementation of LSH, which serves as a pre-selection technique 
 The code of this project is written in collaboration with Nouhaila Zaguaj (572506nz). 
 
 # Data
-- The data set can be found in the file: TVs-allmerged.zip
+- The data set can be found in the file: TVs-all-merged.zip
 - The data set consists of 1,624 descriptions of televisions coming from four online Web stores: Amazon.com, Newegg.com, Best-Buy.com, and TheNerds.net.
 - Each product in the data set is described by a title and has additional data kept in key-value pairs.
 
