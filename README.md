@@ -12,7 +12,7 @@ The code of this project is written in collaboration with Nouhaila Zaguaj (57250
 
 # Implementation
 The methodology used to find a scalable solution for product duplicate detection is implemented as follows.
-The initial step of the process is data cleaning, then proceed by extracting the models words and the brand from the title of the product in order to create binary representations for every product. Following that, Locality Sensitive Hashing (LSH) is applied in order to find candidate pairs. Finally, the Multi-Component Similarity Method (MSM) is utilized to identify the true duplicates from the candidate pairs. For the MSM technique a different approach is used than the general MSM method according to Van Bezu et al. (2015). In this project, the method utilized to find the duplicates is based on the Jaccard Similarity measure and instead of a clustering based-approach, classification is utilized. 
+The initial step of the process is data cleaning, then proceed by extracting the models words and the brand from the title of the product in order to create binary representations for every product. Following that, Locality Sensitive Hashing (LSH) is applied in order to find candidate pairs. Finally, the Single Similarity Method (SSM) is utilized to identify the true duplicates from the candidate pairs. For the SSM technique a different approach is used than the general MSM method according to Van Bezu et al. (2015). In this project, the method utilized to find the duplicates is based on the Jaccard Similarity measure and instead of a clustering based-approach, classification is utilized. 
 
 A summary can be found in the graph: -> graph erin zetten voor overzicht methode??
 
