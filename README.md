@@ -16,7 +16,7 @@ Bootstrapping is used as an evaluation technique, in order to obtain robust resu
 
 A graphical overview of the method can be found in the file: Overview_Method.pdf.
 
-In the program, the number of hashes is specified to be approximately 50% of the size of the binary vector representations of the products. Additionally, the threshold for the Jaccard Similarity in the SSM method is set to 0.6. 
+In the program, the number of hashes is specified to be approximately 50% of the size of the binary vector representations of the products. Additionally, the threshold for the Jaccard Similarity in the SSM method is set to 0.8. 
 
 
 [1] van Bezu, R., Borst, S., Rijkse, R., Verhagen, J., Frasincar, F., Vandic, D.: Multi-
