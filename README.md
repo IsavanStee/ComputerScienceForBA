@@ -1,7 +1,7 @@
 # Computer Science For Business Analytics
 Product Duplicate Detection Across Web Shops: A Scalable Approach Using Locality Sensitive Hashing
 
-Welcome to the implementation of LSH, which serves as a pre-selection technique in order to find the duplicates by applying classification.
+Welcome to the implementation of Locality-Sensitive Hashing, which serves as a pre-selection technique in order to find the duplicates by applying the Single Similarity Method.
 The code of this project is written in collaboration with Nouhaila Zaguaj (572506nz). 
 
 # Data
